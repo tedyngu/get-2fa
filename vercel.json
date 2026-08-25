@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/2fa/:secret",
+      "destination": "https://2fa.live/tok/:secret"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
