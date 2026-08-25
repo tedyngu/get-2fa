@@ -1,6 +1,0 @@
-{
-  "name": "Discord 2FA Manager",
-  "description": "Quản lý và tự động tạo mã xác thực 2 bước (2FA) cho tài khoản Discord.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
